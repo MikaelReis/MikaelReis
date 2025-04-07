@@ -2,7 +2,7 @@
 
 
 ###### Sobre o Mikael
-Estudo tecnologia desde 2022, sou formado em Análise e desenvolvimento de sistemas, e tenho apriomorado meu conhecimento com projetos junto ao curso de desenvolvedor da Ebac.
+Estudo tecnologia desde 2022, sou formado em Análise e desenvolvimento de sistemas, e tenho passado meu tempo aprimorando meu conhecimento com projetos junto ao curso de desenvolvedor da Ebac.
 
 ### Detalhes
 
