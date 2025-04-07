@@ -10,7 +10,7 @@ Estudo tecnologia desde 2022, sou formado em Análise e desenvolvimento de siste
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MikaelReis&repo=MikaelReis.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MikaelReis&repo=MikaelReis.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Linguagens utilizadas
