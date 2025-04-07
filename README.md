@@ -8,11 +8,6 @@ Estudo tecnologia desde 2022, sou formado em Análise e desenvolvimento de siste
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikaelReis&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### Projetos
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MikaelReis&repo=MikaelReis.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ### Linguagens utilizadas
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikaelReis&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
